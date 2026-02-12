@@ -19,7 +19,7 @@ const gradeIcons = {
   '4': '/images/level04.png', '5': '/images/level05.png'
 };
 
-const IMAGE_BASE_URL = "https://port-0-damteulback-server-mlhcddsk6f7f8eac.sel3.cloudtype.app/uploads/community/";
+const IMAGE_BASE_URL = "https://web-damteulfront-mlj2xqaqd3367eb0.sel3.cloudtype.app/uploads/community/";
 
 const CommPost = () => {
   const { id } = useParams(); 
