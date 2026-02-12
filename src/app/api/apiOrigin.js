@@ -1,1 +1,1 @@
-export const API_ORIGIN = "https://port-0-damteulback-server-mlhcddsk6f7f8eac.sel3.cloudtype.app";
+export const API_ORIGIN = "https://web-damteulfront-mlj2xqaqd3367eb0.sel3.cloudtype.app";
