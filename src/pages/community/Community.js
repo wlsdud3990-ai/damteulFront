@@ -14,7 +14,7 @@ import { FaDumbbell } from "react-icons/fa6";
 import { IoMdHeart } from "react-icons/io";
 import { PiChatCircleTextFill } from "react-icons/pi";
 
-const IMAGE_BASE_URL = "https://port-0-damteulback-server-mlhcddsk6f7f8eac.sel3.cloudtype.app/uploads/community/";
+const IMAGE_BASE_URL = "https://web-damteulfront-mlj2xqaqd3367eb0.sel3.cloudtype.app/uploads/community/";
 
 const Community = () => {
   const navigate = useNavigate();
